@@ -1,0 +1,25 @@
+{
+  "name": "node-cli-tools",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlrandy/node-cli-tools.git"
+  },
+  "keywords": [],
+  "author": "dlrandy <ziyucrc@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlrandy/node-cli-tools/issues"
+  },
+  "homepage": "https://github.com/dlrandy/node-cli-tools#readme",
+  "dependencies": {
+    "date-fns": "^2.16.1",
+    "excel4node": "^1.7.2"
+  }
+}
